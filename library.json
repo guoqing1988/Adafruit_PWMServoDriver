@@ -1,0 +1,16 @@
+{
+    "name": "Adafruit_PWMServoDriver",
+    "version": "1.0.0",
+    "keywords": "servo",
+    "description": "Adafruit_PWMServoDriver PWM伺服驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/Adafruit_PWMServoDriver.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
